@@ -10,7 +10,7 @@ and
 This project aims to use certain factors in a persons job in the computer science industry to determine the salary that they will have.
 ## Contributors
 - [@Shawnzylim](https://github.com/Shawnzylim) - Presentation, Code, Slides
-- [@ChenYi-Ming] - Presentation
+- [@ChenYi-Ming](https://github.com/ChenYi-Ming) - Presentation
 ## Project Overview
 ### 1. Problem Definition
 - As computer science students what fields and jobs are best paid in our future careers?
