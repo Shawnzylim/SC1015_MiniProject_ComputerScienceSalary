@@ -42,3 +42,7 @@ This project aims to use certain factors in a persons job in the computer scienc
 - Random Forest Regression
 - By using only the two most important variables company and doctor in philosophy, the accuracy of the model was still very high at 87.62%
 ## References
+1. https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+2. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+3. https://pbpython.com/categorical-encoding.html
+4. https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
