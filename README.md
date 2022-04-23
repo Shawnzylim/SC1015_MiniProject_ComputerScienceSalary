@@ -34,4 +34,11 @@ This project aims to use certain factors in a persons job in the computer scienc
 -  Built and tested Random Forest Regression machine learing algorithms
 -  Tested accuracy of the model using Mean absolute error and mean percentage error
 -  Random Forest had a very high accuracy of 90.27%
-### Conclusion
+### 5. Conclusion
+- Feature engineering to enable us to use regression
+- We discovered that in terms of importance of the factors in predicting the salary, the most important factor was which company the person was working at and coming in second was surprisingly whether the person had a doctorate in philosophy
+### 6. New Insights Learned
+- Learning how to filter the data using label encoding and outliers removal
+- Random Forest Regression
+- By using only the two most important variables company and doctor in philosophy, the accuracy of the model was still very high at 87.62%
+## References
